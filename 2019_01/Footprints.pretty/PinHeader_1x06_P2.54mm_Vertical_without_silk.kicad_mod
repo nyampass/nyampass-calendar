@@ -1,4 +1,4 @@
-(module Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical (layer F.Cu) (tedit 5C08C9C2)
+(module Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_without_silk (layer F.Cu) (tedit 5C0E0524)
   (descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
   (tags "Through hole pin header THT 1x06 2.54mm single row")
   (fp_text reference REF** (at 0 -2.33) (layer F.SilkS) hide
