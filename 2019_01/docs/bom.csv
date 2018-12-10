@@ -1,0 +1,8 @@
+C1,0603 0.1uf,
+C2,0805 10uf,
+C3,0201 12pf,
+C4,0201 12pf,
+R1,0603 1k,
+R2,0603 1k,
+U1,Atmega328p-mu,https://www.digikey.jp/product-detail/en/microchip-technology/ATMEGA328P-MU/ATMEGA328P-MU-ND/1914588
+Y1,16MHz,https://www.digikey.jp/product-detail/ja/epson/TSX-3225-16.0000MF18X-AC0/SER4070CT-ND/5413939
