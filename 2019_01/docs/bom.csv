@@ -1,8 +1,9 @@
-C1,0603 0.1uf,
-C2,0805 10uf,
-C3,0201 12pf,
-C4,0201 12pf,
-R1,0603 1k,
-R2,0603 1k,
-U1,Atmega328p-mu,https://www.digikey.jp/product-detail/en/microchip-technology/ATMEGA328P-MU/ATMEGA328P-MU-ND/1914588
+Ref,Name,URL
+C1,0603 0.1uf,https://www.digikey.jp/product-detail/ja/yageo/CC0201KRX5R5BB104/311-1408-1-ND/2833714
+C2,0805 10uf,https://www.digikey.jp/product-detail/ja/yageo/CC0805ZKY5V6BB106/311-1355-1-ND/2103139
+C3,0201 12pf,https://www.digikey.jp/product-detail/ja/yageo/CC0201JRNPO9BN120/311-1585-1-ND/5195487
+C4,0201 12pf,https://www.digikey.jp/product-detail/ja/yageo/CC0201JRNPO9BN120/311-1585-1-ND/5195487
+R1,0603 1k,https://www.digikey.jp/product-detail/ja/yageo/RT0603BRD071KL/YAG1237CT-ND/4340590
+R2,0603 1k,https://www.digikey.jp/product-detail/ja/yageo/RT0603BRD071KL/YAG1237CT-ND/4340590
+U1,Atmega328p-mu,https://www.digikey.jp/product-detail/ja/microchip-technology/ATMEGA328P-MU/ATMEGA328P-MU-ND/1914588
 Y1,16MHz,https://www.digikey.jp/product-detail/ja/epson/TSX-3225-16.0000MF18X-AC0/SER4070CT-ND/5413939
